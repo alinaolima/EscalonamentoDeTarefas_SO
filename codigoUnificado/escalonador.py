@@ -1,5 +1,4 @@
 # Trabalho sobre Escalonamento de Processos
-# Aluna: Aline da Conceição Ferreira Lima - 22250366
 # Linguagem utilizada: Python
 # Para a interação, siga os passos a seguir:
 # 1.Informe o caminho do arquivo txt que contém as informações sobre os processos
